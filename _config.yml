@@ -1,11 +1,11 @@
 # Configs
 
-title: "Jekyll Profile"
-name: "A Free Job Market Profile in Jekyll"
-email: 
-url: "https://econ-691.github.io"
-baseurl: "/Jekyll-for-Job-Market"
-repository: "ECON-691/Jekyll-for-Job-Market"
+title: "Nahid Khan Saba"
+name: "A Free Job Market Profile for Nahid Khan Saba"
+email: "Z2041555@niu.edu" 
+url: "https://Nahid-Tech96.github.io"
+baseurl: "/Nahid-Khan-Saba-Profile-CV"
+repository: "Nahid-Tech96/A Free Job Market Nahid Khan Saba"
 header:
   image: /assets/images/banner-husky.jpg
 
